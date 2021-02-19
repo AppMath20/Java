@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Java_LB2:jar">
+    <output-path>$PROJECT_DIR$/Manager/out/artifacts/Java_LB2_jar</output-path>
+    <root id="archive" name="Java_LB2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/.idea/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

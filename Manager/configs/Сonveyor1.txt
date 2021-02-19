@@ -1,0 +1,5 @@
+INPUT_FILE, file\input.txt
+OUTPUT_FILE, file\output.txt
+READER, Java_LB2.Reader.Reader ; Reader\config\configR.txt
+EXECUTOR, Java_LB2.Executor.Executor ; Executor\config\configE.txt
+WRITER, Java_LB2.Writer.Writer ; Writer\config\configW.txt
