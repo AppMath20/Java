@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="interfaces2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Writer/interface/interfaces.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
