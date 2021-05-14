@@ -14,7 +14,7 @@ cmd_create_action_table = """CREATE TABLE actions (
 con = None
 try:
     # create a new database connection by calling the connect() function
-    con = psycopg2.connect(database="dc3ocvbn0f13vv", user = "dmgssjxsfjwrbz", password = "899e7532b3c6fee46cc02717e9806e9308c318103a138bdcf760d4ce80cfce74", host = "ec2-54-224-120-186.compute-1.amazonaws.com", port = "5432")
+    con = psycopg2.connect(database="", user = "", password = "", host = "", port = "")
 
     #  create a new cursor
     cur = con.cursor()
