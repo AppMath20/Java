@@ -3,7 +3,7 @@
 
 ## Описание проекта
 1. Сервер Heroku
-2. База данных MySQL
+2. База данных PostgreSQL Heroku
 3. Библиотека для пасринга Beautiful Soup
 4. Язык Python
 5. Контроль весрий GitHub
