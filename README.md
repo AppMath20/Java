@@ -7,7 +7,7 @@
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 
-Телеграм бот для просмотра расписания ВУЗов Санкт-Петербурга.
+Telegram bot for viewing the schedule of universities in St. Petersburg.
 
 ## Описание проекта
 1. Сервер Heroku
